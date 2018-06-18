@@ -1,4 +1,4 @@
-.. _sistema::
+.. _sistema:
 
 3. Entendendo o Sistema
 =======================

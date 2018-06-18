@@ -1,4 +1,4 @@
-.. _install
+.. _install:
 
 4. Instalação do Linux
 ======================
