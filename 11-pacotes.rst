@@ -1,3 +1,5 @@
+.. _pacotes:
+
 11. Gerência de pacotes
 =======================
 

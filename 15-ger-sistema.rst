@@ -1,3 +1,5 @@
+.. _ger-sistema:
+
 15. Comandos para gerência de Sistema
 =====================================
 

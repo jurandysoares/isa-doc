@@ -1,3 +1,5 @@
+.. _sistema::
+
 3. Entendendo o Sistema
 =======================
 

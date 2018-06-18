@@ -1,3 +1,5 @@
+.. _usuarios-grupos:
+
 14. Comandos para gerência de Usuários
 ======================================
 

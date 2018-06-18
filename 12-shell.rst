@@ -1,3 +1,5 @@
+.. _shell:
+
 12. Gerência de comandos do Shell
 =================================
 
