@@ -2,11 +2,11 @@
 ======================================
 
 .. csv-table:: Usuários com UID < 1000
-    :file: usuarios/etc/passwd-1000
+    :file: etc/passwd-1000
     :delim: :
     :header: "", "", "", "", "", "", ""
 
 .. csv-table:: Usuários com UID >= 1000
-    :file: usuarios/etc/passwd+1000
+    :file: etc/passwd+1000
     :delim: :
     :header: 
