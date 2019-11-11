@@ -1,4 +1,4 @@
-buntu:x:1000:1000:Ubuntu:/home/ubuntu:/bin/bash
+ubuntu:x:1000:1000:Ubuntu:/home/ubuntu:/bin/bash
 estudante:x:1001:1001:Estudante do IFRN,,,:/home/estudante:/usr/bin/lshell
 sshd:x:110:65534::/var/run/sshd:/usr/sbin/nologin
 postfix:x:112:118::/var/spool/postfix:/bin/false
