@@ -1,0 +1,10 @@
+site_name: ISA
+site_description: Introdução a Sistemas Abertos
+
+theme:
+  name: material
+  language: pt
+
+plugins:
+  - awesome-pages
+  - search
