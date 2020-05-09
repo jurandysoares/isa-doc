@@ -1,0 +1,7 @@
+title: Gerenciamento de pacotes
+arrange:
+  - dpkg.md
+  - apt.md
+  - rpm.md
+  - yum.md
+

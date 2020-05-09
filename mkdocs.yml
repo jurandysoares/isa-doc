@@ -1,6 +1,8 @@
 site_name: ISA
 site_description: Introdução a Sistemas Abertos
 
+repo_url: https://github.com/jurandysoares/isa-doc
+
 theme:
   name: material
   language: pt
